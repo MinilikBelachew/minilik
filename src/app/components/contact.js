@@ -56,7 +56,7 @@ const Contact = () => {
               <a href="mailto:belachewr35@gmail.com" className="bg-gradient-to-r from-cyan-600 to-blue-600 text-white px-6 py-3 rounded-lg text-center transition duration-300 hover:scale-105">
                 Email Me
               </a>
-              <a href="https://www.linkedin.com/in/minilik-belachew/" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-r from-cyan-600 to-blue-600 text-white px-6 py-3 rounded-lg text-center transition duration-300 hover:scale-105">
+              <a href="https://www.linkedin.com/in/minilik-belachew-37a211263" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-r from-cyan-600 to-blue-600 text-white px-6 py-3 rounded-lg text-center transition duration-300 hover:scale-105">
                 LinkedIn Profile
               </a>
             </div>
