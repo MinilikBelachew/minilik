@@ -19,20 +19,20 @@ export default function Skills() {
       icon: '📱',
       color: 'text-purple-400'
     },
-    {
-      name: 'Backend Development',
-      technologies: [
-        'ASP.NET'
-      ],
-      icon: '⚙️',
-      color: 'text-green-400'
-    },
+    // {
+    //   name: 'Backend Development',
+    //   technologies: [
+    //     'ASP.NET'
+    //   ],
+    //   icon: '⚙️',
+    //   color: 'text-green-400'
+    // },
     {
       name: 'Tools & Others',
       technologies: [
         'Git',
-        'Docker', 
-        'AWS'
+        // 'Docker', 
+        // 'AWS'
       ],
       icon: '🛠️',
       color: 'text-orange-400'
